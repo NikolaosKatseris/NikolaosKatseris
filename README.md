@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nickolaskatseris@gmail.com**
 
-- 🪖 Extra **I recently completed my military service and am now fully focused on growing in the tech world.**
+- 🪖 On a personal note: **I recently completed my military service and am now fully focused on growing in the tech world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
