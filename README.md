@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolaos Katseris</h1>
-<h3 align="center">I am a computer science graduate exploring the world of software engineering and enjoying the learning journey</h3>
+<h3 align="center">I am a computer science graduate exploring the world of software engineering and enjoying the learning journey!!!</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/bjC8sdurIYfElHXfxR/giphy.gif" alt="Funny Error GIF" width="100"/>
 </p>
